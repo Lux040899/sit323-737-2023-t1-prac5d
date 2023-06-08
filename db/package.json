@@ -1,0 +1,12 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "Example Node.js app with two local servers",
+  "main": "db-app.js",
+  "scripts": {
+    "start": "node db-app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
